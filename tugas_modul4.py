@@ -1,3 +1,7 @@
+print("========== Kelompok 19 ==========")
+print("Rajwa Vourza Tsaqifa (21120123130091)")
+
+
 class ATM:
     def __init__(self, saldo_awal):
         self.saldo = saldo_awal
