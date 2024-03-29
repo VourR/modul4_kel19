@@ -1,6 +1,7 @@
 print("========== Kelompok 19 ==========")
 print("Rajwa Vourza Tsaqifa (21120123130091)")
 print("Arga Mulyana Saputra (211201231300665)")
+print("Denok Intan Permata Sari (21120123130059)")
 
 class ATM:
     def __init__(self, saldo_awal):
